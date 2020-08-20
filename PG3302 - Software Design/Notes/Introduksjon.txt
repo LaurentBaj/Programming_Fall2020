@@ -1,0 +1,59 @@
+Hovedtemaer
+	- UML
+	- SOLID
+	- Design Pattern 
+
+Språket: C#
+
+Adaptive Code(Bok) - kap 3-11
+
+
+UML - Unified Modeling Language 
+	- Begynner å bli standard for modellere software systemer  
+	- Mange forskjellige type standarder
+	- 2.5.1 - Har 14 forskjellige type diagrammer
+		- Hovedtyper: Structure and Behaviour 
+	
+	USE CASE Modellering 
+		- Beskriver interaksjon mellom bruker og systemer 
+		- Beskriver en funksjonalitet en eller flere aktører 
+		- Hva slags funksjonalitet
+		- Hva tilbyr den 
+		- Sett fra et bruker-perspepktiv 	
+	
+		- Aktør: Trenger ikke å være mennesker, kan også være systemer 
+			- Primary actor: Den som setter i gang en use case
+			- Secondary Actor: Andre aktører som involverer seg senere
+		 
+		Notasjon: 
+			Aktør - Stickman 
+			System - boks 
+			Sirkel - funksjonalitet (Use Case)
+
+		Relasjoner mellom Use Cases: 
+			- Use Cases kan peke på hverandre: da benytter man stiplede linjer 
+			- Extend: En alternativ eller valgfri del av en use case for å simplifisere orginalen - Registrering < - - - Hjelp med registrering (hjelp m.r extender Registrering)
+			- Include: Kobling ved gjenbruk av funksjonalitet :   Betal - - - > Autentisering < - - - Ta ut Penger
+         		- Generalization/Specialization: 
+				- En enhet (Aktør, boks eller use case) arver noe fra en samme type enhet 
+				- Legg til handlevogn ----> Se handlevogn  
+	
+		Use Case Narrativ 
+			- Benyttes i tilleg til Use Case Diagram
+			
+			1.Navngi use caset 
+			2.Beskriv kortfattet under Beskrivelse hva som gjøres i use caset 
+			3.BestemAktører–en ellerflere 
+			4.Spør hvilke betingelser som må være til stede for at use caset skal ut føres(Forbetingelser) 
+			5.Beskriv detaljert hva som skal gjøres i use caset i den vanlige utføringen ("Normal utføring”/suksesscenario) 
+ 			6.Spør hvilke endringer som skal være gjort i systemet etter at normal utføring er ferdig (Etterbetingelser) 
+			7.Spør hvilke feilsituasjoner eller spesialtilfeller som kan forekomme underveis i utførelsen av use caset. Beskriv behandlingen av disse under "Alternativ utføring".
+			
+		
+
+
+
+			
+			
+
+ 
