@@ -1,0 +1,14 @@
+Maven - JDK.11 
+
+Test - JUnit.5.6 Import test class afterwards 
+
+Import Test Class + assert 
+
+Ikke del idea eller iml - filer 
+
+
+Github Actions
+	- Java Maven 
+	- Oppdater maven.yml med riktig info 
+
+
