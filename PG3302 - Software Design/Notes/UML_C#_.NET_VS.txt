@@ -1,0 +1,42 @@
+Hensikten med USE CASE 
+	- Se på et helt system 
+		-funksjonaliteter for bruker 
+		- Sett fra bruker synspunkt 
+
+
+DOMAIN MODEL DIAGRAM
+	- ER diagran over klasser
+	- Assosiasjoner
+		- Samme som relasjoner i ER
+		- Aggregation: Den ene delen tilhører den andre (heltrukken strek og diamant(siden eier den andre))
+		- Composition: Deler trenger hverandre for å fungere
+		- Inheritance: Forelder og barn 
+		- Stiplet linje: Uavhengig
+		- Heltrukken linje: avhengig 
+
+IMPLEMENTATION CLASS DIAGRAM
+	- En klasse består av: navn, attributter og operasjoner
+	- Relasjoner har sin egen notasjon 
+
+
+C# 
+	- 2002 
+	- Likner på JAVA
+	- Version 8.0 
+	- .NET Core 3.1.X (Masse biblos for C#)
+	- Opprinnelig kun for C#
+		. .NET Core tillater kryssplattformer 
+
+
+C# og JAVA
+	- Begge har virtuall machine 
+	- Garbage Collecter 
+	- Lik syntax 
+
+	- primitive typer kan brukes som objekter 
+	- boolean i C# heter bool 
+	- C# støtter kun unchecked exceptions 
+	- Java må deale med checked exceptions
+	- C# tillater bruk av pekere
+	- C# bruker namespaces (tilsvarende packages i java)
+	- 
