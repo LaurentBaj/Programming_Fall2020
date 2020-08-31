@@ -1,0 +1,55 @@
+When write algo: How long will it take? How can we measure it? 
+			- Run it with input: Do it a few times	
+				- Problem: Inputs are very relative in size 
+			
+			- Constant Cost
+				- Instructions that have to be executed no matter what the input is
+
+SCALABILITY 
+	- how much time will the scaling the input affect runtime
+		- Lineær, quadratic? 
+	- An app that increases the numbers of users using it takes more data 
+	- Constants are usually not interesting 
+
+ALGORITHMS
+	- Analyse the costs
+	- We use math
+	- We can compare them 
+		- Some algorithms can be better than others at specific ranges og scalability
+
+
+We dont want to write a large equation when describing an algo? 
+
+BIG O
+	- Upper bounds: worst case scenarios 
+	- Lower bounds: best case 
+	
+- Constant  1
+- logarithmic log(N)
+- Linear 
+- N log N (Linearithmic) 
+- Quadratic N^2
+- Cubic  N^3
+- Exponential 2^n  
+
+The functions do not guarantee the exact cost. One implementation may have different growth structures based on the input
+ 
+SORTING 
+	
+	- Going through a list of items and sort them
+	
+	-Bubble sort: 
+		-Iterate over every element. Switch values if right lower than left 
+		- Based on input can be N at best and n^2 at worst because it loops wether it is sorted or not 
+	
+	Insertion sort:
+		- Create subset of lists, based on adjacent elements, from the left and grows to the right 
+		- Best if the list is almost sorted 
+		- Pushing elements from higher indexes to the left is costly  
+ 
+
+		
+
+	
+	
+	
