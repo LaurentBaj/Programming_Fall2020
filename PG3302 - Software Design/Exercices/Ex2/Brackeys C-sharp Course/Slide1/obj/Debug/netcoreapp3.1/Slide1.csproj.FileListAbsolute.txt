@@ -1,0 +1,13 @@
+C:\Users\laure\OneDrive\Desktop\Programming_Fall2020\PG3302 - Software Design\Exercices\Ex2\Brackeys C-sharp Course\Slide1\bin\Debug\netcoreapp3.1\Slide1.exe
+C:\Users\laure\OneDrive\Desktop\Programming_Fall2020\PG3302 - Software Design\Exercices\Ex2\Brackeys C-sharp Course\Slide1\bin\Debug\netcoreapp3.1\Slide1.deps.json
+C:\Users\laure\OneDrive\Desktop\Programming_Fall2020\PG3302 - Software Design\Exercices\Ex2\Brackeys C-sharp Course\Slide1\bin\Debug\netcoreapp3.1\Slide1.runtimeconfig.json
+C:\Users\laure\OneDrive\Desktop\Programming_Fall2020\PG3302 - Software Design\Exercices\Ex2\Brackeys C-sharp Course\Slide1\bin\Debug\netcoreapp3.1\Slide1.runtimeconfig.dev.json
+C:\Users\laure\OneDrive\Desktop\Programming_Fall2020\PG3302 - Software Design\Exercices\Ex2\Brackeys C-sharp Course\Slide1\bin\Debug\netcoreapp3.1\Slide1.dll
+C:\Users\laure\OneDrive\Desktop\Programming_Fall2020\PG3302 - Software Design\Exercices\Ex2\Brackeys C-sharp Course\Slide1\bin\Debug\netcoreapp3.1\Slide1.pdb
+C:\Users\laure\OneDrive\Desktop\Programming_Fall2020\PG3302 - Software Design\Exercices\Ex2\Brackeys C-sharp Course\Slide1\obj\Debug\netcoreapp3.1\Slide1.csprojAssemblyReference.cache
+C:\Users\laure\OneDrive\Desktop\Programming_Fall2020\PG3302 - Software Design\Exercices\Ex2\Brackeys C-sharp Course\Slide1\obj\Debug\netcoreapp3.1\Slide1.AssemblyInfoInputs.cache
+C:\Users\laure\OneDrive\Desktop\Programming_Fall2020\PG3302 - Software Design\Exercices\Ex2\Brackeys C-sharp Course\Slide1\obj\Debug\netcoreapp3.1\Slide1.AssemblyInfo.cs
+C:\Users\laure\OneDrive\Desktop\Programming_Fall2020\PG3302 - Software Design\Exercices\Ex2\Brackeys C-sharp Course\Slide1\obj\Debug\netcoreapp3.1\Slide1.csproj.CoreCompileInputs.cache
+C:\Users\laure\OneDrive\Desktop\Programming_Fall2020\PG3302 - Software Design\Exercices\Ex2\Brackeys C-sharp Course\Slide1\obj\Debug\netcoreapp3.1\Slide1.dll
+C:\Users\laure\OneDrive\Desktop\Programming_Fall2020\PG3302 - Software Design\Exercices\Ex2\Brackeys C-sharp Course\Slide1\obj\Debug\netcoreapp3.1\Slide1.pdb
+C:\Users\laure\OneDrive\Desktop\Programming_Fall2020\PG3302 - Software Design\Exercices\Ex2\Brackeys C-sharp Course\Slide1\obj\Debug\netcoreapp3.1\Slide1.genruntimeconfig.cache
