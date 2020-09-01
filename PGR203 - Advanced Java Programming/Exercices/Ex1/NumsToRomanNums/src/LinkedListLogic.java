@@ -1,13 +1,5 @@
 public class LinkedListLogic {
-    /* LINKED LIST
 
-    * Data structure where each element is linked to the next one (doubly linked list allows for previous element link)
-    * Can contain any datatype, duplicate or unique elements, and can be un/sorted
-    * Unlike the array, a linked list has to be traversed in order to retrieve a specific item
-            - That takes linear time making it slower then doing the same when we know the index of a value in an array
-            - Insertions/deletions can be fast when done from the beginning of a linked list (constant time)
-            - Insertions/deletions on the end of a LL demands that we traverse it which is costly (linear time)
-    */
 
     private class Node {
         Node next;
@@ -30,6 +22,7 @@ public class LinkedListLogic {
         while (current.next != null) {
             current = current.next;
         }
+        current.next = new Node(data);
     }
 
     public void insertAtBeginning(int data) {
@@ -49,14 +42,31 @@ public class LinkedListLogic {
         while (current.next.data != data) {
             current = current.next;
         }
-        current.next = current.next.next; // The el to the right (i+1) is now next el after that (i+1+1)
-        return;                           // (i+1) Will now now a a value but not point to anything (removed from the list)
+        current.next = current.next.next;
+        return;
     }
 
     public void printAll() {
-        for (Node current = head; current.next != null; current = current.next) {
+        Node current;
+        for (current = head; current.next != null; current = current.next) {
             System.out.println(current.data);
         }
+        System.out.println(current.data);
         return;
     }
+
+    public static void main(String[] args) {
+        LinkedListLogic a = new LinkedListLogic();
+        a.addToLastElement(2);
+        a.addToLastElement(4);
+        a.insertAtBeginning(5);
+        a.deleteAtSpecificValue(2);
+        a.addToLastElement(9);
+        a.addToLastElement(9);
+        a.addToLastElement(9);
+        a.addToLastElement(9);
+        a.deleteAtSpecificValue(9);
+        a.printAll();
+    }
 }
+
