@@ -1,0 +1,16 @@
+SEKVENSDIAGRAMMER 
+	 - Hvordan elementer kommuniserer med hverandre 
+	 - Hver prosess tillater/hindrer en annen
+
+LAYERS	
+	1) User Interface
+		- Screens, Controls
+		- Business Layer	
+		- Data Access Layer: krav for at en funksjonalitet skal fungere
+	2) App Logic
+	3) Databases 
+	
+	Akritektstruktur: Avhengigheten opp er avhengig av lagene under  
+	
+DESIGNPATTERS
+	- Annerkjente, gjenbrukbare og utprøvde tendenser som er gunstige å bruke for å håndtere en gitt problemstilling 
