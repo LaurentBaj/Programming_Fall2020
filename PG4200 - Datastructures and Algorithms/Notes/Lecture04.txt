@@ -1,0 +1,34 @@
+RECURSION
+
+	Function that calls upon itself
+	Needs a stop criterion
+	For a large input
+		- there would be to many frames made (stack overflow)
+	
+	Two different recursion strategies
+		- second one is better (check ppt)
+			- Dividing the array into two pieces and making two rec-calls
+	
+	Usually, loops are better 
+	Some algorithms are more effective with Recursion like Merge and Quick sort 
+
+MERGE SORT
+	Divide and conquer
+		- Compare the arrays
+	Needs a stopping criteria 
+		- sortet when size of array is one 
+	N Log N tight-bound - both best and worst case 
+	Not particulary fast and has some drawback when it comes to memory 
+	
+QUICK SORT 
+	One of the most used
+	Better constant compared to merge sort  
+	Minimal memory overhead 
+	N log N 
+
+
+TDD 
+	Design methology 
+	 -create tests that fail at first then implement 
+	Little evidence that it works, small decrease in productivity  
+	

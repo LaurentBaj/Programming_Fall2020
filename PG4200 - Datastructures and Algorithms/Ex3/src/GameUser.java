@@ -29,3 +29,4 @@ public class GameUser {
         this.points = points;
     }
 }
+
