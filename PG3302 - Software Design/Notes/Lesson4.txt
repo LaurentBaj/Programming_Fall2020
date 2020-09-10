@@ -1,0 +1,22 @@
+SOLID - Guidelines and patterns 
+
+	- Single- responsability 
+		- Write Code that has one and only one reason to change
+		- If a class has more than one reason to change, it has more than one resp 
+	
+	-  OPEN CLOSED PRINCIPE
+		- Adapt the modules  
+				- Virtuelle 
+				- Abstrakte 
+				- Interface 
+	
+	- The Liskov Substitution Principle 
+		- Contract Rules 
+			- Preconditions can not be strengthen in the sub-time	
+				- IF-ELSE: If an impl tries to change to a state that the super does not have then the prog can fail
+			- Post can not be weakend in sub
+			- Invariants of the supertype - object state can not be changed 
+			-  
+		
+		
+	
