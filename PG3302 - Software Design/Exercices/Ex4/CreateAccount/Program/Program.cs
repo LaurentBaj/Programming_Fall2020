@@ -6,35 +6,21 @@ namespace Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome to my application!");
+            StandardMessages.WelcomeMessage();
 
-            // Ask for user information
-            Person user = new Person();
+            Person user = PersonDataCapture.Capture();
 
-            Console.Write("What is your name first name:  ");
-            user.FirstName = Console.ReadLine();
-
-            Console.Write("What is your name last name:  ");
-            user.LastName = Console.ReadLine();
-
-            // Checks to be sure the first and last names are valid 
-            if (string.IsNullOrWhiteSpace(user.FirstName))
+            bool isUserValid = PersonValidator.Validate(user);
+            
+            if(!isUserValid)
             {
-                Console.WriteLine("You did not give us a valid first name");
-                Console.ReadLine();
-                return;
+                StandardMessages.EndApplication(); 
+                return; 
             }
 
-            if (string.IsNullOrWhiteSpace(user.LastName))
-            {
-                Console.WriteLine("You did not give us a valid last name");
-                Console.ReadLine();
-                return;
-            }
+            AccountGenerator.CreateAccount(user); 
 
-            // Create a username fir the person 
-            Console.WriteLine($"Your username is {user.FirstName.Substring(0, 1) }{ user.LastName} ");
-            Console.ReadLine(); 
+            StandardMessages.EndApplication();
         }
     }
 }
