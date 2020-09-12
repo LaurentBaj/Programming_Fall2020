@@ -12,6 +12,9 @@ namespace Fraction
         public Fraction(int numerator = 0, int denominator = 1)
         {
             if(numerator == 0 || denominator == 0)
+            {
+                Console.ReadLine(); 
+            }
             this.numerator = numerator;
             this.denominator = denominator;
         }
