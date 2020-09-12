@@ -11,6 +11,7 @@ namespace Fraction
         // Constructor 
         public Fraction(int numerator = 0, int denominator = 1)
         {
+            if(numerator == 0 || denominator == 0)
             this.numerator = numerator;
             this.denominator = denominator;
         }
@@ -41,7 +42,8 @@ namespace Fraction
             if(f1 == f2)
             {
                 return true; 
-            } 
+            }
+            return false; 
         }
         public static bool operator !=(Fraction f1, Fraction f2)
         {
