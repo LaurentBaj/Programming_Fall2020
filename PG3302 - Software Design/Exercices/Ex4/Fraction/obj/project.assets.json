@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex4\\Ex4\\Ex4.csproj",
-      "projectName": "Ex4",
-      "projectPath": "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex4\\Ex4\\Ex4.csproj",
+      "projectUniqueName": "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex4\\Fraction\\Fraction.csproj",
+      "projectName": "Fraction",
+      "projectPath": "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex4\\Fraction\\Fraction.csproj",
       "packagesPath": "C:\\Users\\laure\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex4\\Ex4\\obj\\",
+      "outputPath": "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex4\\Fraction\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\laure\\AppData\\Roaming\\NuGet\\NuGet.Config",
