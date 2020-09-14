@@ -22,6 +22,7 @@ public class Tree {
                 }
             }
         }
+
         public boolean contains(int value) {
             if (value == data) {
                 return true;
@@ -40,5 +41,4 @@ public class Tree {
             }
         }
     }
-
 }
