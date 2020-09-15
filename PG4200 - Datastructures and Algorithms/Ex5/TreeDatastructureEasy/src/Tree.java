@@ -1,11 +1,16 @@
 public class Tree {
 
-    class Node {
+    public void insert(int i) {
+    }
+
+    public class Node {
         Node left, right;
         int data;
+
         public Node(int data) {
             this.data = data;
         }
+    }
 
         public void insert(int value) {
             if (value <= data) {
@@ -38,6 +43,16 @@ public class Tree {
                 } else {
                     return right.contains(value);
                 }
+            }
+        }
+
+        public void printInOrder() {
+            if (left != null) {
+                left.printInOrder();
+            }
+            System.out.println(data);
+            if (right != null) {
+                right.printInOrder();
             }
         }
     }
