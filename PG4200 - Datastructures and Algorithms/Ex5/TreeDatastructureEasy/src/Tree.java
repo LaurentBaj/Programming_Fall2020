@@ -1,7 +1,5 @@
 public class Tree {
 
-    public void insert(int i) {
-    }
 
     public class Node {
         Node left, right;
@@ -10,7 +8,6 @@ public class Tree {
         public Node(int data) {
             this.data = data;
         }
-    }
 
         public void insert(int value) {
             if (value <= data) {
