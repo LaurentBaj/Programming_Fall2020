@@ -1,0 +1,32 @@
+						TREES
+
+TREES == ABSTRACT DATATYPES || DATATYPES 
+
+	- Can be used to make Tree Nodes Classes 
+	- Can back certain trees as arrays 
+
+ - Hierarchical Datastructure 
+
+	- Every Item in a tree is a node 
+	- Each node can have several child nodes, but can only have one parent node
+	- Each Tree can only have one root node and it can't have a parent 
+	- Leaf node has only one children 
+	- Edges connect parents to childs and are visualized as pointers 
+	- Sub Tree: the node we're on, its children and its decendants 
+	- Path: route from root to a node. Route path is the route from a node to root 
+
+	- Depth: The amout of edges between the root and a node (Root has always zero depth as it has no pointers pointing to it)
+	- Height: The opposite of depth (leaf notes has always zero height)
+	- Levels: Nodes that have the same amount of depth 
+
+
+- Binary Seach Tree 
+
+	- Each node has zero, 1 or 2 children
+		- Usually refered to as left and right child
+	- Can perform insertions, deletions, andretrievals in O(logn) time
+	- Left child has always smaller value than its parent 
+	- The right child always has a larger value than its parent 
+	- Every value on the left of the root is smaller and vice versa
+	- BST are perfect for doing binary searches. Always take O(logn) time
+	
