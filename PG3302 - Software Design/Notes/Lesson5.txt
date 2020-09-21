@@ -1,0 +1,7 @@
+SOLID DEL 2	
+
+	- iNTERFACE SEGREGATION PRINCIPCLE
+		- Klienten skal ikke bli tvunget til å bruke metoder eller properties de ikke trenger 
+	- dEPENDENCY INVERSION PRINCIPLE
+		- Vi ønsker å ungå spesifikk eklasser, men heller interfaces
+		- Interfaces gir oss mer spillerom 
