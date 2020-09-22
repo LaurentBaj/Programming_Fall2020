@@ -1,6 +1,7 @@
 public class Main {
 
     public static void main(String[] args) {
+
         Tree intTree = new Tree();
         intTree.insert(25);
         intTree.insert(20);
@@ -11,5 +12,17 @@ public class Main {
         intTree.insert(7);
 
         intTree.traverseInOrder();
+
+        System.out.println("");
+
+        System.out.println(intTree.get(20));
+        System.out.println(intTree.get(107));
+        System.out.println(intTree.get(217));
+        System.out.println(intTree.get(24));
+
+        System.out.println("");
+
+        System.out.println(intTree.min());
+        System.out.println(intTree.max());
     }
 }
