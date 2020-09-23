@@ -18,7 +18,7 @@ namespace Program
                 return; 
             }
 
-            AccountGenerator.CreateAccount(user); 
+            AccountGenerator.CreateAccount(user);
 
             StandardMessages.EndApplication();
         }
