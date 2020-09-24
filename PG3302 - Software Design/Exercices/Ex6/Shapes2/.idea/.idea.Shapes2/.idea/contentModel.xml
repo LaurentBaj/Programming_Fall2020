@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\laure\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\laure\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Shapes2.-2034431848.00" t="ExcludeRecursive" />
+    <e p="C:\Users\laure\OneDrive\Desktop\Programming_Fall2020\PG3302 - Software Design\Exercices\Ex6\Shapes2" t="IncludeRecursive">
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Circle.cs" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.1" t="Include">
+            <e p="Shapes2.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Rectangle.cs" t="Include" />
+      <e p="Shape.cs" t="Include" />
+      <e p="ShapeFactory.cs" t="Include" />
+      <e p="Shapes2.csproj" t="IncludeRecursive" />
+      <e p="Shapes2.sln" t="IncludeFlat" />
+      <e p="Triangle.cs" t="Include" />
+    </e>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+DESIGN PATTERNS - Annerkjente måter å utvikle et program og jobbe sammen
+
+
+Dependency Injection 
+	- Tillater løse koblinger 
+	- Enkelhet
+	- Kan gjøres via metoder, construktører
+
+Inversion Control
+
+
+Factory Pattern == SRP tror jeg 
+
+
+	
+

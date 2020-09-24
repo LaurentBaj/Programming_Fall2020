@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc1b9489-7305-41d6-916d-3d428a3322fe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Circle.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rectangle.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Shape.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShapeFactory.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Triangle.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Class1.cs" />
+        <option value="$PROJECT_DIR$/Triangle.cs" />
+        <option value="$PROJECT_DIR$/Circle.cs" />
+        <option value="$PROJECT_DIR$/Shape.cs" />
+        <option value="$PROJECT_DIR$/Rectangle.cs" />
+        <option value="$PROJECT_DIR$/ShapeFactory.cs" />
+        <option value="$PROJECT_DIR$/Program.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hy38Lln1oUGH95ELIUshBwE3W8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc1b9489-7305-41d6-916d-3d428a3322fe" name="Default Changelist" comment="" />
+      <created>1600969344172</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600969344172</updated>
+      <workItem from="1600969349266" duration="750000" />
+      <workItem from="1600973747104" duration="3853000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="601" y="149" key="RiderGenerateDialog" timestamp="1600975323573">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="601" y="149" key="RiderGenerateDialog/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1600975323573" />
+  </component>
+</project>
