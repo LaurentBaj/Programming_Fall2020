@@ -7,7 +7,8 @@ Provide access to data using Keys: Key value pairs
 Adding item: Provide Key and Value 
 Retreive item: Provide Key 
 
-HASHTABLES are optimized for retreiving data when we know the key 
+HASHTABLES are optimized for retreiving data when we know the key --- CONSTANT TIME COMPLEXITY --- speedy boi 
+
 
 KEY DOES NOT HAVE TO BE AN INTEGER 
 	- All keys are converted to Integers (HASHING)
