@@ -19,14 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc1b9489-7305-41d6-916d-3d428a3322fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Circle.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rectangle.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shape.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ShapeFactory.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Triangle.cs" afterDir="false" />
-    </list>
+    <list default="true" id="dc1b9489-7305-41d6-916d-3d428a3322fe" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1600969344172</updated>
       <workItem from="1600969349266" duration="750000" />
-      <workItem from="1600973747104" duration="3853000" />
+      <workItem from="1600973747104" duration="4259000" />
     </task>
     <servers />
   </component>
