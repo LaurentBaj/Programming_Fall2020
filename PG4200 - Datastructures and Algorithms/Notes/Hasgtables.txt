@@ -1,0 +1,29 @@
+HASTABLES - MAPS - DICTIONARIES
+
+Hastable is an abstract datatype 
+
+Provide access to data using Keys: Key value pairs 
+
+Adding item: Provide Key and Value 
+Retreive item: Provide Key 
+
+HASHTABLES are optimized for retreiving data when we know the key 
+
+KEY DOES NOT HAVE TO BE AN INTEGER 
+	- All keys are converted to Integers (HASHING)
+	- Hash function maps keys to int 
+	- Every Object in Java inherits a Hashcode method 
+	- Collisoin: hashing method may produce the same int for a key 
+
+LOAD FACTOR 
+	- How full the hash table is 
+	- Load Factor = amount of things in ds % hashtable.size
+		- Used to decide whn to rezize 
+		- A small LF means that the datastructure is ineffective
+		- A big LF increases the chances of collision 
+
+
+ADD TO HASH TABLE BACKED BY AN ARRAY 
+1) Provide  a key/value pair 
+2) Use a hash function to hash the key to an int value 
+3) Retrieve the value stored at the hashed key value 
