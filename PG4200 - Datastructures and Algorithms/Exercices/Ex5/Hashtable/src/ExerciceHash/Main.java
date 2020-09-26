@@ -11,8 +11,8 @@ public class Main {
 
         SimpleHashTable ht = new SimpleHashTable();
         ht.put("Bajrami", e1);
-        ht.put("Bajrami", e2);
-        ht.put("Jørstad", e3);
+        ht.put("Bajrami", e2); // Will create collision
+        ht.put("Jørstad", e3); // Will create collision
         ht.put("Gustavson", e4);
         ht.put("Skolt", e5);
 

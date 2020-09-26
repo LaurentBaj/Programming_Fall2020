@@ -28,3 +28,14 @@ ADD TO HASH TABLE BACKED BY AN ARRAY
 1) Provide  a key/value pair 
 2) Use a hash function to hash the key to an int value 
 3) Retrieve the value stored at the hashed key value 
+
+
+
+
+HANDLING COLLISIONS 
+	- Open Addressing
+		- If we wish to put a new value into the table but that position is occupied in the array, look for an available index
+		- Linear Probing: When we discover that a position for a hashed key value is already ocupied, we increase the key value and check once again to see if we can put it there
+			- Keep incrementing until the table is full. In that case we can't put it there  
+			- Each time we increment we're doing it in a linear fashion and each increment is called a probe 
+				- The lower amount of probes, the better 
