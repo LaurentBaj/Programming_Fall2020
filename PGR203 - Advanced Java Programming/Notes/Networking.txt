@@ -1,0 +1,11 @@
+NETWORK - A system of computers connected to eachother so that they can share information
+NETWORKING - How these computers connect and share data 
+
+
+CLIENT - SERVER 
+
+	The browser(client) requests data from a webserver 
+	- Since a computer can have more than one app using a network, the network needs to be routed to the target app
+ 		- Each app is assigned a port 
+
+	Socket: Endpoints from Client to Server. Client uses a Socket while server uses ServerSocket
