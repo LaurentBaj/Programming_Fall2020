@@ -1,20 +1,20 @@
 ﻿using System;
-using LSPDemo;
+using DemoLibrary;
 
-namespace DemoLibrary
+namespace ConsoleUI
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Manager accountingVP = new Manager();
+            IManager accountingVP = new CEO();
 
             accountingVP.FirstName = "Emma";
             accountingVP.LastName = "Stone"; 
             accountingVP.CalculatePerHourRate(4);
             
-            Employee emp = new Employee();
-
+            IManaged emp = new Employee();
+            
             emp.FirstName = "Laurent";
             emp.LastName = "Bajrami"; 
             emp.AssignManager(accountingVP);

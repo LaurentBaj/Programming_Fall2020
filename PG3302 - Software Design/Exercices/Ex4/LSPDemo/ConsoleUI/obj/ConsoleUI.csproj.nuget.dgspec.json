@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex6\\LSPDemo\\ConsoleUI\\ConsoleUI.csproj": {}
+    "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex4\\LSPDemo\\ConsoleUI\\ConsoleUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex6\\LSPDemo\\ConsoleUI\\ConsoleUI.csproj": {
+    "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex4\\LSPDemo\\ConsoleUI\\ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex6\\LSPDemo\\ConsoleUI\\ConsoleUI.csproj",
+        "projectUniqueName": "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex4\\LSPDemo\\ConsoleUI\\ConsoleUI.csproj",
         "projectName": "ConsoleUI",
-        "projectPath": "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex6\\LSPDemo\\ConsoleUI\\ConsoleUI.csproj",
+        "projectPath": "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex4\\LSPDemo\\ConsoleUI\\ConsoleUI.csproj",
         "packagesPath": "C:\\Users\\laure\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex6\\LSPDemo\\ConsoleUI\\obj\\",
+        "outputPath": "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex4\\LSPDemo\\ConsoleUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\laure\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,8 +27,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex6\\LSPDemo\\LSPDemo\\LSPDemo.csproj": {
-                "projectPath": "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex6\\LSPDemo\\LSPDemo\\LSPDemo.csproj"
+              "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex4\\LSPDemo\\DemoLibrary\\DemoLibrary.csproj": {
+                "projectPath": "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex4\\LSPDemo\\DemoLibrary\\DemoLibrary.csproj"
               }
             }
           }
@@ -60,14 +60,14 @@
         }
       }
     },
-    "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex6\\LSPDemo\\LSPDemo\\LSPDemo.csproj": {
+    "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex4\\LSPDemo\\DemoLibrary\\DemoLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex6\\LSPDemo\\LSPDemo\\LSPDemo.csproj",
-        "projectName": "LSPDemo",
-        "projectPath": "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex6\\LSPDemo\\LSPDemo\\LSPDemo.csproj",
+        "projectUniqueName": "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex4\\LSPDemo\\DemoLibrary\\DemoLibrary.csproj",
+        "projectName": "DemoLibrary",
+        "projectPath": "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex4\\LSPDemo\\DemoLibrary\\DemoLibrary.csproj",
         "packagesPath": "C:\\Users\\laure\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex6\\LSPDemo\\LSPDemo\\obj\\",
+        "outputPath": "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex4\\LSPDemo\\DemoLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\laure\\AppData\\Roaming\\NuGet\\NuGet.Config",
