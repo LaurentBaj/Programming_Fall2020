@@ -1,0 +1,17 @@
+ITERATORS - LAMBDAS - STREAMS 
+
+
+Easy to iterate over arrays- not as easy on other DSs 
+
+
+A colletion can implement Iterable Interface
+	- Allows for for(X x: Collection)
+	- Collection should not be altered while iterating over them 
+
+Lambdas - Syntactic sugar 
+	- Effective ways of implementing Interfaces by using anonymous classes  
+
+
+
+STREAMS 
+	
