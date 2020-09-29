@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LSPDemo", "LSPDemo\LSPDemo.csproj", "{DFC5966C-BCD7-4D02-8686-B809523B3716}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{58C0DD8B-55A2-4788-8F0C-8FFEEADDC40C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFC5966C-BCD7-4D02-8686-B809523B3716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFC5966C-BCD7-4D02-8686-B809523B3716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFC5966C-BCD7-4D02-8686-B809523B3716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFC5966C-BCD7-4D02-8686-B809523B3716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58C0DD8B-55A2-4788-8F0C-8FFEEADDC40C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C0DD8B-55A2-4788-8F0C-8FFEEADDC40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C0DD8B-55A2-4788-8F0C-8FFEEADDC40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C0DD8B-55A2-4788-8F0C-8FFEEADDC40C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
