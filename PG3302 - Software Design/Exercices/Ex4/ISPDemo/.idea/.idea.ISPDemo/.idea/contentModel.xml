@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\laure\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\laure\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_ISPDemo.18300776.00" t="ExcludeRecursive" />
+    <e p="C:\Users\laure\OneDrive\Desktop\Programming_Fall2020\PG3302 - Software Design\Exercices\Ex4\ISPDemo" t="IncludeFlat">
+      <e p="ConsoleUI" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConsoleUI.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="DemoLibrary" t="IncludeRecursive">
+        <e p="AudioBook.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Book.cs" t="Include" />
+        <e p="DemoLibrary.csproj" t="IncludeRecursive" />
+        <e p="DVD.cs" t="Include" />
+        <e p="ILibraryItem.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="ReferenceBook.cs" t="Include" />
+      </e>
+      <e p="ISPDemo.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
