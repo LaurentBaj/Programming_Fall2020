@@ -55,6 +55,8 @@ public class HttpClient {
         responseBody = body.toString();
     }
 
+
+    // Connect each byte and return the message  
     public static String readLine(Socket socket) throws IOException {
         StringBuilder line = new StringBuilder();
         int c;

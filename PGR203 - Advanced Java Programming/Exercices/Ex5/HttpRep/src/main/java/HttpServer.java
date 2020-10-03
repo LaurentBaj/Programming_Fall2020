@@ -5,7 +5,7 @@ import java.net.Socket;
 public class HttpServer {
 
     public HttpServer(int port) throws IOException {
-        ServerSocket serverSocket = new ServerSocket(port);
+        ServerSocket serverSocket = new ServerSocket(port); // Inngangsport slik at nettverksklienter kan kobles til
 
         new Thread(() -> {  // Lambda which creats multiple threads that don't block each other
             while (true) {
@@ -42,7 +42,7 @@ public class HttpServer {
                 "\r\n" +
                 "Hello <strong>World</strong>!";
 
-        clientSocket.getOutputStream().write(response.getBytes()); // Read the respone it to the server
+        clientSocket.getOutputStream().write(response.getBytes()); // Write response back to server
     }
 
     public static void main(String[] args) throws IOException {

@@ -19,4 +19,5 @@ class HttpServerTest {
         HttpClient client = new HttpClient("localhost", 10002, "/echo?status=404");
         assertEquals(404, client.getStatusCode());
     }
+
 }
