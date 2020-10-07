@@ -6,24 +6,22 @@ public class Main {
 
         int[] array = {20, 35, -15, 7, -22, 1, 55};
 
-        for (int lastUnsortedIndex = array.length - 1;
-             lastUnsortedIndex > 0;
-             lastUnsortedIndex--) {
+        for (int lastIndexOutOfBound = array.length - 1; lastIndexOutOfBound > 0; lastIndexOutOfBound--) {
 
             int largestNum = 0;
 
-            for (int i = 1; i <= lastUnsortedIndex; i++) {
+            for (int i = 1; i <= lastIndexOutOfBound; i++) {
                 if (array[i] > array[largestNum]) {
                     largestNum = i;
                 }
             }
 
-            swap(array, largestNum, lastUnsortedIndex); // Swap Array[largestNum] and array[lastUnsortedIndex]
+            swap(array, largestNum, lastIndexOutOfBound);
 
         }
 
         // Output
-        for (int  i = 0; i < array.length; i++) {
+        for (int i = 0; i < array.length; i++) {
             System.out.println(array[i]);
         }
 
