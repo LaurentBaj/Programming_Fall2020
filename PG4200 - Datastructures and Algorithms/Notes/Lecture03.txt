@@ -44,9 +44,18 @@ SORTING
 	
 	Insertion sort:
 		- Create subset of lists, based on adjacent elements, from the left and grows to the right 
+		- Quadratic 
 		- Best if the list is almost sorted 
-		- Pushing elements from higher indexes to the left is costly  
- 
+		- Pushing elements from higher indexes to the left is costly 
+
+	Shell Sort: 
+		- Enhanced Insertion Sort (Last stage of Shell is a traditional Insertion sort) 
+		- Shell uses a wider gap while Ins uses a gap of one (its neighbour to the left) 
+		- As algo run it reduces the gap until the gap is one, which it then performs an insertion sort
+			- This is the preliminary work that enhances the sort 
+		- Worst Case : N^2. Time complecity depends on the gap we choose making it hard to find best case
+		- Can be applied to bubble sort 
+
 
 		
 
