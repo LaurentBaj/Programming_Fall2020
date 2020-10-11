@@ -14,7 +14,7 @@ public class InsertionSortRep {
                 array[i] = array[i - 1];
             }
 
-            array[i] = newElement; // Insert new element to correct index
+            array[i] = newElement; // We found the insertion point
 
         }
 
