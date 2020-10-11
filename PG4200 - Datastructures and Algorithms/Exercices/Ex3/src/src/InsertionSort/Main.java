@@ -11,16 +11,17 @@ public class Main {
 
             int newElement = intArray[firstUnsortedIndex];
 
-            int i;
+            int i; // Instanciate it outside in order to make it accessible in line 20
 
             for (i = firstUnsortedIndex; i > 0 && intArray[i - 1] > newElement; i--) {
                 intArray[i] = intArray[i - 1];
             }
 
-            intArray[i] = newElement;
+            intArray[i] = newElement; // switch place to correct order
+
         }
 
-
+        // Output
         for (int i = 0; i < intArray.length; i++) {
             System.out.println(intArray[i]);
         }
