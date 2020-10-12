@@ -1,0 +1,23 @@
+MERGE SORT	
+
+Divide and conquer algorithm 
+Usually written recursively
+
+Consists of two phases: 
+
+	- Splitting: Preliminary work that leads to faster sorting during merging phase 
+		- This involves splitting the array in two (left and right) as many times until until 
+		  the subarrays only have one element each - these arrays are sorted 		
+
+	- Merging: Where the sorting is done 
+		- Merge every left/right pair of the sub-arrays (on the same level) into one sorted array
+		- At each level the arrays are merged by comparing the values of the indexes of the first left and først right
+		  , using a temporary array which will be returned upwards until it reaches the top (origin array) 
+		  and it is fully sorted
+
+
+Not in place algorithm: Since it uses temp arrays (during merge) 
+
+Stable: Since each value is compared to it's neighbour
+
+ 

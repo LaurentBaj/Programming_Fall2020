@@ -30,7 +30,7 @@ public class Main {
         }
 
         return num * recursiveFactorial(num - 1); // The order in which this method collects the values:
-    }                                                  // 1 * 2 * 3 * 4
+    }                                                  // 1 * 2 * 3 * 4 
 
-    
+
 }
