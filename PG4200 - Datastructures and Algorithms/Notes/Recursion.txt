@@ -1,0 +1,12 @@
+RECURSION 
+
+When a method calls itself it is known as a recursive method
+
+Used in some algorithms such as Merge and Quick
+	- We often write algorithms iteratively, but recursion CAN be used much more effectivly 
+
+Effective when the input does not require as many recursive calls
+
+Needs a base case/breaking point lest it will perform infinite calls and create a stack overflow issue 
+
+ 

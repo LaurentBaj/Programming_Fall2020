@@ -7,9 +7,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0bb286a7-7ae2-410d-af1b-eb4d8c71daa6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/InsertionSort/InsertionSortRep.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/EnhancedInsertionSort_ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EnhancedInsertionSort_ShellSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/InsertionSortRep.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InsertionSortRep.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,15 +65,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -102,6 +98,7 @@
       <updated>1602446547938</updated>
       <workItem from="1602446550794" duration="945000" />
       <workItem from="1602447527523" duration="3342000" />
+      <workItem from="1602513507688" duration="2121000" />
     </task>
     <servers />
   </component>
@@ -121,21 +118,21 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1478" height="221" key="GridCell.Tab.0.bottom" timestamp="1602452573623">
+    <state width="1478" height="221" key="GridCell.Tab.0.bottom" timestamp="1602518421159">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1478" height="221" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1602452573623" />
-    <state width="1478" height="221" key="GridCell.Tab.0.center" timestamp="1602452573623">
+    <state width="1478" height="221" key="GridCell.Tab.0.bottom/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1602518421159" />
+    <state width="1478" height="221" key="GridCell.Tab.0.center" timestamp="1602518421159">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1478" height="221" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1602452573623" />
-    <state width="1478" height="221" key="GridCell.Tab.0.left" timestamp="1602452573623">
+    <state width="1478" height="221" key="GridCell.Tab.0.center/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1602518421159" />
+    <state width="1478" height="221" key="GridCell.Tab.0.left" timestamp="1602518421159">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1478" height="221" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1602452573623" />
-    <state width="1478" height="221" key="GridCell.Tab.0.right" timestamp="1602452573623">
+    <state width="1478" height="221" key="GridCell.Tab.0.left/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1602518421159" />
+    <state width="1478" height="221" key="GridCell.Tab.0.right" timestamp="1602518421159">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1478" height="221" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1602452573623" />
+    <state width="1478" height="221" key="GridCell.Tab.0.right/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1602518421159" />
   </component>
 </project>
