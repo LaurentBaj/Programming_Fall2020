@@ -2,6 +2,7 @@ MERGE SORT
 
 Divide and conquer algorithm 
 Usually written recursively
+	- Otherwise it would need many func-calls and a lot more lines of code 
 
 Consists of two phases: 
 
