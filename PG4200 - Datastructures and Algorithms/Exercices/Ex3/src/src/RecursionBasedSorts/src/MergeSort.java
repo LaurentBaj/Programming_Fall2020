@@ -3,7 +3,8 @@ public class MergeSort {
     public static void main(String[] args) {
 
         int[] intArray = {22, 54, -17, 25, 4, 9, 21, -12, 1, 99};
-
+        
+        //sort(intArray); enhancement attempt
         mergeSort(intArray, 0, intArray.length);
 
         for (int i = 0; i < intArray.length; i++) {
@@ -11,6 +12,13 @@ public class MergeSort {
         }
 
     }
+    
+    /*public static void sort(int[] input) {
+        int start = input[0];
+        int end = input.length;
+
+        mergeSort(input, start, end);
+    }*/
 
     public static void mergeSort(int[] input, int start, int end) {
         if (end - start < 2) {
