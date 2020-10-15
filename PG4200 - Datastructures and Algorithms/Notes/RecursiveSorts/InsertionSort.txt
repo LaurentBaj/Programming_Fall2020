@@ -1,0 +1,11 @@
+I N S E R T I O N    S O R T
+
+Divide and Conquer 
+
+Usually written ecursivively 
+
+In - place 
+
+O(nlogn) - base 2
+
+  
