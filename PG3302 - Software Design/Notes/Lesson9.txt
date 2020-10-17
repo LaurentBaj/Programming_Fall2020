@@ -1,0 +1,28 @@
+ATTRIBUTES -- UNIT TESTING  --  TEST-DRIVEN DEVELOPMENT -- DESIGN PATTERNS: COMPOSITE 
+
+
+ATTRIBUTES: "An attribute is a declarative tag that is used to convey information to runtime about the behaviours of various elements like classes, methods, structures, enumerators, assemblies in your program"
+	- "Attributes are used for adding metadata, such as compiler instruction and other information such as comments, description, methods and classes to a program"
+
+
+UNIT TESTING 
+	- A method to insure that smal units of src code are of proper quality
+	- A common feature of Agile Software Development 
+	- A "unit" is often a class/interface, but can also just be a method
+	- Typically, each test case is written independently to test small units of code  
+	-Advantages: 
+		- Confirm each components functionality 
+		- Find bugs easly (cheaper)
+		- Smootens the process of integrating code units
+		- Can be used as documentation of code 
+
+	- Disadvantages: 
+		- Costly 
+		- Tests have to be updated 
+		- Tests can also contain bugs 
+		- Is only one type of testing, one needs several more 
+	- NUnit: Framework for C#, just like JUnit for Java
+	
+	
+		 
+Test Doubles: Stubs, Spies, Mocks
