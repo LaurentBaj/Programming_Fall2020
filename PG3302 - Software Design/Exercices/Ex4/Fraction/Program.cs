@@ -11,6 +11,9 @@ namespace Fraction
             var a = new Fraction(2, 4);
             var b = new Fraction(1, 4);
 
+            Fraction c = new Fraction(3, 4);
+            Console.WriteLine(c); 
+
             // Test arithmetic operators
             Console.WriteLine(a + b);
             Console.WriteLine(a - b);
