@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\laure\\OneDrive\\Desktop\\BankExample\\BankExample\\BankExample.csproj",
+      "projectUniqueName": "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex9\\BankExample\\BankExample\\BankExample.csproj",
       "projectName": "BankExample",
-      "projectPath": "C:\\Users\\laure\\OneDrive\\Desktop\\BankExample\\BankExample\\BankExample.csproj",
+      "projectPath": "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex9\\BankExample\\BankExample\\BankExample.csproj",
       "packagesPath": "C:\\Users\\laure\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\laure\\OneDrive\\Desktop\\BankExample\\BankExample\\obj\\",
+      "outputPath": "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex9\\BankExample\\BankExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\laure\\AppData\\Roaming\\NuGet\\NuGet.Config",

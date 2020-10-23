@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NayM8/ircI5nO++yPG5X2l4HfjDFXrVRGbBfk59BUyzjkT/XlR8Dn26DYnpx0R0zQoLx7+FgPlZBti7dXUs58g==",
+  "dgSpecHash": "5IuwiN5yqiZA9TbeE/QgqKk81FWVZ9DvS7rNchGUYPgFFRDAsKmIyHQTTH3oWX5YFLrUVrAJa9HNfA8en5Ktmw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\laure\\OneDrive\\Desktop\\BankExample\\BankTest\\BankTest.csproj",
+  "projectFilePath": "C:\\Users\\laure\\OneDrive\\Desktop\\Programming_Fall2020\\PG3302 - Software Design\\Exercices\\Ex9\\BankExample\\BankTest\\BankTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\laure\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\laure\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
